@@ -1,3 +1,4 @@
+/*!TextInputRecommen v1.0.0 | (c) Ilman Hendrawan Saputra | MIKDevInd/license */
 class TextInputRecommen {
   constructor(inputSelector, recommendations) {
     this.inputField = document.querySelector(inputSelector);
